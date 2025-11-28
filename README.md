@@ -399,8 +399,8 @@ copies or substantial portions of the Software.
 ## 👤 Author
 
 **Shlok Nair**
-- GitHub: https://github.com/shlok1005
-- LinkedIn: [(https://linkedin.com/in/shlok-nair](https://www.linkedin.com/in/shlok-nair-050ba6229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- GitHub: https://github.com/shloknair1005
+- LinkedIn: https://linkedin.com/in/shlok-nair](https://www.linkedin.com/in/shlok-nair-050ba6229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - Email: shloknair1024@gmail.com 
 
 ---
