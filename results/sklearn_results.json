@@ -1,0 +1,5 @@
+{
+    "model": "Scikit-Learn Random Forest Classifier",
+    "accuracy": 1.0,
+    "n_estimators": 100
+}

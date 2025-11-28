@@ -1,0 +1,7 @@
+{
+    "model": "PyTorch Neural Network",
+    "accuracy": 0.9444444179534912,
+    "test_loss": 0.20348583161830902,
+    "epochs": 200,
+    "architecture": "13-9-10-3"
+}
