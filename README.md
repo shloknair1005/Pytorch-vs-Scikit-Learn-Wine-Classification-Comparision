@@ -365,10 +365,10 @@ If you use this project in your research or work, please cite it as:
 
 ```bibtex
 @software{pytorch_vs_sklearn_2024,
-  author = {Your Name},
+  author = Shlok Nair,
   title = {PyTorch vs Scikit-Learn: Wine Classification Benchmark},
   year = {2024},
-  url = {https://github.com/yourusername/pytorch-vs-sklearn}
+  url = {https://github.com/shlok1005/pytorch-vs-sklearn}
 }
 ```
 
